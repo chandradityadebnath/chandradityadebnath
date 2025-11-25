@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandradityadebnath
+- 👋 Hi, I’m @chandraditya
 - 👀 I’m interested in editing using after effects,python,java and more.
 - 📫 reach me : chandradityadebnath@gmail.com
 - 😄 Pronouns: he/him
