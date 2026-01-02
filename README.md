@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ Chandraditya ⚡
+  hi :) this is Chandraditya 💫
 </h1>
 
 <p align="center">
