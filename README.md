@@ -50,13 +50,13 @@ clean structure, smooth flow, and real-world impact.
 
 ## ⚙️ Tech & Creative Stack
 
-### 💻 Languages
+### 💻 Programming Languages I know:3
 <p>
   <img src="https://img.shields.io/badge/Python-00FFC6?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-FF00FF?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🎨 Tools & Platforms
+### 🎨 Tools & Platforms 
 <p>
   <img src="https://img.shields.io/badge/After%20Effects-0FF0FC?style=flat-square&logo=adobeaftereffects&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -88,13 +88,8 @@ clean structure, smooth flow, and real-world impact.
 - Creative automation workflows  
 - Cleaner, scalable Streamlit apps  
 - Turning experiments into usable products  
+- Deep learning,AI Ethics, Generative AI.
 
----
-
-## 🧬 Philosophy
-
-> **“Good code should work.  
-Great projects should feel right.”**
 
 ---
 
@@ -103,5 +98,6 @@ Great projects should feel right.”**
 </p>
 
 <p align="center">
-  ⭐ <b>If this profile resonates with you, star a repository or follow the journey.</b> ⭐
+  ⭐ <b>Wanna check my works ? 
+You can visit my profile on Github and use my repository.</b> ⭐
 </p>
