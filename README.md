@@ -20,7 +20,7 @@
 
 ## 🧠 Overview
 
-I’m a **student, creator, and developer** working at the intersection of  
+I’m a ** first year B.Tech CSE student, creator, and developer** working at the intersection of  
 **visual storytelling, software development, and artificial intelligence**.
 
 My background in **content creation and motion design** strongly influences how I build software:
@@ -84,7 +84,8 @@ clean structure, smooth flow, and real-world impact.
 
 ## 🌱 Currently Improving
 
-- Applied AI & ML fundamentals  
+- Applied AI & ML fundamentals
+- Data Structure And Algorithms (DSA)
 - Creative automation workflows  
 - Cleaner, scalable Streamlit apps  
 - Turning experiments into usable products  
