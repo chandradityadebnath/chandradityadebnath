@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>🎬 Creativity-driven engineering meets 🤖 applied artificial intelligence</i>
+  <i>Python, AI Agents, NLP & OpenCV | AI/ML | Computer Vision |</i>
 </p>
 
 <p align="center">
