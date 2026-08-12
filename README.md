@@ -20,7 +20,7 @@
 
 ## 🧠 Overview
 
-I’m a ** first year B.Tech CSE student, creator, and developer** working at the intersection of  
+I’m a **First Year B.Tech CSE student, creator, and developer** working at the intersection of  
 **visual storytelling, software development, and artificial intelligence**.
 
 My background in **content creation and motion design** strongly influences how I build software:
@@ -35,22 +35,9 @@ clean structure, smooth flow, and real-world impact.
 
 ---
 
-## 🌍 Digital Presence & Reach
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Instagram-2.3K%2B%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YouTube-32.7K%2B%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</p>
-
-- Real experience building and engaging audiences  
-- Strong understanding of **visual hooks, retention, and presentation**  
-- Creator mindset applied directly to **UI, UX, and product thinking**
-
----
-
 ## ⚙️ Tech & Creative Stack
 
-### 💻 Programming Languages I know:3
+### 💻 Programming Languages I know:
 <p>
   <img src="https://img.shields.io/badge/Python-00FFC6?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-FF00FF?style=flat-square&logo=openjdk&logoColor=white"/>
