@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Python, AI Agents, NLP & OpenCV | AI/ML | Computer Vision |</i>
+  <i>Python | AI Agents | NLP & OpenCV | AI/ML | Computer Vision |</i>
 </p>
 
 <p align="center">
