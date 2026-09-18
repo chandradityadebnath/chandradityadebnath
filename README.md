@@ -188,8 +188,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 | Recognition | Details |
 |:--|:--|
-| Fund My Crazy — IIT Guwahati | Participated in this pitch competition, delivering a 90-second societal-impact pitch across Roads, Healthcare, Education, and Community domains |
-| Internship Assignment — IdeaLabs Digital | Selected to complete a technical evaluation project (Automated Video Dubbing System) |
+| Fund My Crazy — Google | Participated in this pitch competition, delivering a 90-second societal-impact pitch across Roads, Healthcare, Education, and Community domains |
 | Content Creation | Built and grew a personal content brand with an active audience across YouTube, Instagram, and TikTok |
 
 </div>
