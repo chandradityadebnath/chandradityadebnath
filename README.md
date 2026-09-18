@@ -14,7 +14,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandradityadebnath)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandradityadebnath)
@@ -184,7 +183,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 | Recognition | Details |
 |:--|:--|
-| Fund My Crazy — Google | Participated in this pitch competition, delivering a 90-second societal-impact pitch across Roads, Healthcare, Education, and Community domains |
+| Fund My Crazy — IIT Guwahati | Participated in this pitch competition, delivering a 90-second societal-impact pitch across Roads, Healthcare, Education, and Community domains |
 | Internship Assignment — IdeaLabs Digital | Selected to complete a technical evaluation project (Automated Video Dubbing System) |
 | Content Creation | Built and grew a personal content brand with an active audience across YouTube, Instagram, and TikTok |
 
@@ -259,7 +258,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 ```yaml
 Learning:
-  - Data Structures & Algorithms (In Java)
+  - Data Structures & Algorithms (Python)
   - Applied Generative AI
   - Backend system design fundamentals
 
@@ -286,7 +285,6 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandradityadebnath)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandradityadebnath)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
