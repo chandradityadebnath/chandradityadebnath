@@ -1,3 +1,4 @@
+cat > /mnt/user-data/outputs/README.md << 'EOF'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=280&section=header&text=Chandraditya%20Debnath&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -28,7 +29,7 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -49,9 +50,13 @@ Open To:
   - Open Source Collaboration
 ```
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 🧰 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -77,13 +82,13 @@ Open To:
 ![GitHub](https://img.shields.io/badge/GitHub-14161A?style=for-the-badge&logo=github&logoColor=8B5CF6)
 ![VS Code](https://img.shields.io/badge/VS%20Code-14161A?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
 
-<div align="center">
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 🤖 AI / ML Expertise
 
@@ -99,7 +104,7 @@ Open To:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -160,7 +165,7 @@ A practical introduction to computer vision pipelines — frame capture, Haar ca
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 💼 Experience
 
@@ -175,7 +180,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 `Python` `Speech Synthesis` `Translation APIs` `Media Processing`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -189,9 +194,11 @@ Working through an evaluation assignment as part of an internship engagement —
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 📜 Certifications
+
+<div align="center">
 
 **Google**
 
@@ -209,7 +216,9 @@ Working through an evaluation assignment as part of an internship engagement —
 
 ![ISRO Certified](https://img.shields.io/badge/ISRO-Certification-8B5CF6?style=for-the-badge)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -222,27 +231,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandradityadebnath&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandradityadebnath&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -252,7 +241,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 🎯 Current Focus
 
@@ -276,7 +265,7 @@ Open To:
   - Backend Engineering Internships
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
 ## 📬 Connect With Me
 
@@ -297,3 +286,8 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0F0524&height=150&section=footer" width="100%"/>
 
 </div>
+EOF
+echo "done"
+Output
+
+done
