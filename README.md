@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=280&section=header&text=Chandraditya%20Debnath&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
