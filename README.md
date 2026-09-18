@@ -270,7 +270,7 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandradityadebnath@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandradityadebnath@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandradityadebnath)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandradityadebnath)
 
