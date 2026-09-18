@@ -270,7 +270,7 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandradityadebnath@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandradityadebnath)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandradityadebnath)
 
@@ -285,8 +285,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0F0524&height=150&section=footer" width="100%"/>
 
 </div>
-EOF
-echo "done"
-Output
-
-done
