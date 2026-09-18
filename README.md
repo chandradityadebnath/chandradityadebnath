@@ -96,7 +96,7 @@ Open To:
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| Multi-Agent Systems | 🟣🟣🟣⚪⚪ | Built a multi-agent mental health assistant (MindMate) using Team Dynamo |
+| Multi-Agent Systems | 🟣🟣🟣⚪⚪ | Built the architecture of a multi-agent mental health assistant (MindMate) |
 | Natural Language Processing | 🟣🟣🟣⚪⚪ | Applied NLP techniques alongside the Google API for conversational logic |
 | Generative AI Fundamentals | 🟣🟣⚪⚪⚪ | Foundational understanding; actively expanding practical application |
 | Computer Vision | 🟣🟣🟣⚪⚪ | Real-time face detection using OpenCV |
