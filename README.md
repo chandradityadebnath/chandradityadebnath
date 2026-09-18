@@ -259,7 +259,7 @@ Working through an evaluation assignment as part of an internship engagement —
 
 ```yaml
 Learning:
-  - Data Structures & Algorithms (Python)
+  - Data Structures & Algorithms (In Java)
   - Applied Generative AI
   - Backend system design fundamentals
 
