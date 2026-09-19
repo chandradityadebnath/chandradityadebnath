@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=280&section=header&text=Chandraditya%20Debnath&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=280&section=header&text=Chandraditya%20Debnath&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%40+MCET;Aspiring+Software+%26+AI%2FML+Engineer;Building+with+Python+%2B+Java+%2B+MySQL;Open+to+Internship+Opportunities" alt="Typing SVG" />
