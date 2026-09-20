@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=280&section=header&text=Chandraditya%20Debnath&fontSize=52&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20&descAlignY=58&descSize=18" width="100%"/>
@@ -82,9 +81,14 @@ Open To:
 ![GitHub](https://img.shields.io/badge/GitHub-14161A?style=for-the-badge&logo=github&logoColor=8B5CF6)
 ![VS Code](https://img.shields.io/badge/VS%20Code-14161A?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA)
 
+**More Additional Skills**
+
+![After Effects](https://img.shields.io/badge/After%20Effects-14161A?style=for-the-badge&logo=adobeaftereffects&logoColor=8B5CF6)
+![Blender](https://img.shields.io/badge/Blender-14161A?style=for-the-badge&logo=blender&logoColor=A78BFA)
+
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,ae,blender&theme=dark" />
 
 </div>
 
