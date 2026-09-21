@@ -171,12 +171,8 @@ A practical introduction to computer vision pipelines — frame capture, Haar ca
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1033,50:7C3AED,100:1E1033&height=3&width=1200" width="100%"/>
 
-## 💼 Experience
 
-**Software Development Intern (Assignment Phase)**
-**IdeaLabs Digital** · *Ongoing*
-
-Working through an evaluation assignment as part of an internship engagement — building an automated video dubbing pipeline.
+## Currently working on
 
 - Building an **Automated Video Dubbing System** in Python
 - Pipeline covers: video download → transcription → English translation → speech synthesis → audio-video remuxing
@@ -255,8 +251,8 @@ Learning:
   - Backend system design fundamentals
 
 Building:
-  - MindMate v2 (expanded multi-agent capabilities)
-  - Automated Video Dubbing System (IdeaLabs Digital assignment)
+  - Architecture of MindMate v2 (expanded multi-agent capabilities)
+  - Automated Video Dubbing System 
 
 Exploring:
   - Open-source contribution workflows (OMRChecker, pandas, scikit-learn)
