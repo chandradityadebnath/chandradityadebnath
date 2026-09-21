@@ -100,8 +100,8 @@ Open To:
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| Multi-Agent Systems | 🟣🟣🟣⚪⚪ | Built the architecture of a multi-agent mental health assistant (MindMate) |
-| Natural Language Processing | 🟣🟣🟣⚪⚪ | Applied NLP techniques alongside the Google API for conversational logic |
+| Multi-Agent Systems | 🟣🟣⚪⚪⚪ | Built the architecture of a multi-agent mental health assistant (MindMate) |
+| Natural Language Processing | 🟣⚪⚪⚪⚪ | Applied NLP techniques alongside the Google API for conversational logic (still progessing) |
 | Generative AI Fundamentals | 🟣🟣⚪⚪⚪ | Foundational understanding; actively expanding practical application |
 | Computer Vision | 🟣🟣🟣⚪⚪ | Real-time face detection using OpenCV |
 | Applied Python for AI | 🟣🟣🟣🟣⚪ | Primary language for AI/ML prototyping and experimentation |
